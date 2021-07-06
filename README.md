@@ -4,7 +4,7 @@ Here I use Windows Operating system to make this package.
 `pytube` Library is a command-line program to download videos from YouTube.com and a few more sites.
 `ffmpeg` is A complete, cross-platform solution to record, convert and stream audio and video, For more details about ffmpeg, you can visit [Here](https://www.ffmpeg.org/about.html).
 ## Prerequisites
--  It requires the `Python interpreter, version 2.6, 2.7, or 3.2+`, and it is not platform specific.
+-  It requires the `Python interpreter, version 3.5` or higher python version.
 -  ffmpeg, you can download [Windows](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z). or [Mac](https://evermeet.cx/ffmpeg/ffmpeg-102846-g6df4bcf1d0.zip). and [Linux(Ubuntu)](https://launchpad.net/ubuntu/+source/ffmpeg/) to another Linux Distribution You can See in [Here](https://www.ffmpeg.org/download.html).
 ## Steps
 1. Clone this code.
